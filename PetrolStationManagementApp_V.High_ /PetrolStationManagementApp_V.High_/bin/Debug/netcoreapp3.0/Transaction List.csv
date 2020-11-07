@@ -1,0 +1,85 @@
+Transaction No, Vehicle Type, Fuel Type, Number of Litres, Pump Number
+1, Car, LPG, 38, 5
+2, Car, LPG, 35, 9
+3, Van, Diesel, 64, 1
+4, Van, Diesel, 72, 2
+5, Van, Diesel, 68, 8
+6, HGV, Diesel, 130, 3
+7, HGV, Diesel, 130, 6
+8, HGV, Diesel, 127, 4
+9, HGV, Diesel, 124, 7
+10, Car, LPG, 40, 3
+11, Car, Unleaded, 37, 6
+12, Car, LPG, 39, 9
+13, Van, Diesel, 61, 2
+Transaction No, Vehicle Type, Fuel Type, Number of Litres, Pump Number
+1, Car, Unleaded, 33, 2
+2, Car, Unleaded, 35, 1
+3, Car, LPG, 34, 6
+4, Car, LPG, 30, 9
+5, Car, Unleaded, 38, 7
+6, Van, Diesel, 60, 4
+7, Van, Diesel, 76, 5
+8, HGV, Diesel, 121, 3
+9, HGV, Diesel, 131, 8
+10, Van, Diesel, 60, 5
+11, Van, Diesel, 63, 2
+12, Car, Unleaded, 33, 8
+13, Van, Diesel, 66, 1
+14, HGV, Diesel, 124, 6
+15, HGV, Diesel, 130, 4
+16, HGV, Diesel, 122, 3
+17, Car, LPG, 39, 4
+18, HGV, Diesel, 121, 7
+19, HGV, Diesel, 130, 9
+20, Car, LPG, 31, 1
+21, Car, Unleaded, 38, 3
+22, Van, Diesel, 79, 5
+23, HGV, Diesel, 128, 6
+24, Van, Diesel, 69, 7
+25, Van, Diesel, 77, 8
+26, HGV, Diesel, 126, 2
+27, Car, LPG, 31, 6
+28, Car, LPG, 32, 4
+29, Car, LPG, 36, 3
+30, HGV, Diesel, 132, 9
+Transaction No, Vehicle Type, Fuel Type, Number of Litres, Pump Number
+1, Car, Unleaded, 32, 2
+2, Car, LPG, 37, 6
+3, Car, LPG, 39, 5
+4, Car, Unleaded, 39, 4
+5, Van, Diesel, 63, 3
+Transaction No, Vehicle Type, Fuel Type, Number of Litres, Pump Number
+1, Car, LPG, 31, 4
+2, Car, Unleaded, 40, 6
+Transaction No, Vehicle Type, Fuel Type, Number of Litres, Pump Number
+1, Car, LPG, 32, 1
+2, Car, Unleaded, 39, 2
+3, Car, Unleaded, 39, 5
+4, Car, LPG, 34, 8
+5, Van, Diesel, 69, 6
+6, HGV, Diesel, 125, 3
+7, HGV, Diesel, 125, 4
+8, HGV, Diesel, 123, 9
+9, HGV, Diesel, 131, 7
+10, Car, LPG, 31, 5
+11, Van, Diesel, 61, 3
+Transaction No, Vehicle Type, Fuel Type, Number of Litres, Pump Number
+1, Car, Unleaded, 37, 3
+2, Car, Unleaded, 34, 1
+3, Car, Unleaded, 30, 4
+4, Car, LPG, 35, 5
+5, Car, LPG, 36, 7
+6, Van, Diesel, 75, 6
+7, Van, Diesel, 66, 9
+Transaction No, Vehicle Type, Fuel Type, Number of Litres, Pump Number
+1, Car, LPG, 32, 6
+2, Car, LPG, 32, 4
+3, Car, LPG, 31, 9
+4, Van, Diesel, 61, 2
+Transaction No, Vehicle Type, Fuel Type, Number of Litres, Pump Number
+1, Car, Unleaded, 30, 2
+2, Car, LPG, 32, 1
+3, Car, Unleaded, 33, 9
+4, Car, LPG, 34, 7
+5, Van, Diesel, 66, 3

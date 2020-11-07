@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/simonecampo/Desktop/University/Year I/Assessments/Assessment Programming/MOD3212_SID_1911840/PetrolStationManagementApp_V.High_ /PetrolStationManagementApp_V.High_/PetrolStationManagementApp_V.High_.csproj": {}
+  },
+  "projects": {
+    "/Users/simonecampo/Desktop/University/Year I/Assessments/Assessment Programming/MOD3212_SID_1911840/PetrolStationManagementApp_V.High_ /PetrolStationManagementApp_V.High_/PetrolStationManagementApp_V.High_.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/simonecampo/Desktop/University/Year I/Assessments/Assessment Programming/MOD3212_SID_1911840/PetrolStationManagementApp_V.High_ /PetrolStationManagementApp_V.High_/PetrolStationManagementApp_V.High_.csproj",
+        "projectName": "PetrolStationManagementApp_V.High_",
+        "projectPath": "/Users/simonecampo/Desktop/University/Year I/Assessments/Assessment Programming/MOD3212_SID_1911840/PetrolStationManagementApp_V.High_ /PetrolStationManagementApp_V.High_/PetrolStationManagementApp_V.High_.csproj",
+        "packagesPath": "/Users/simonecampo/.nuget/packages/",
+        "outputPath": "/Users/simonecampo/Desktop/University/Year I/Assessments/Assessment Programming/MOD3212_SID_1911840/PetrolStationManagementApp_V.High_ /PetrolStationManagementApp_V.High_/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/simonecampo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
